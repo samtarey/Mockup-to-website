@@ -23,24 +23,24 @@ body {
 	margin-right: 46px;
 }
 
-.row {
+.row-specs {
 	margin-left: 0;
 	margin-right: 0;
 }
 
-.col-md-12 {
+.col12-specs {
 	padding-left: 0;
 	padding-right: 0;
 }
 
-.col-md-5 {
+.col5-specs {
 	width: 375px;
 	padding-left: 0;
 	padding-right: 0;
 	margin-right: 32px;
 }
 
-.col-md-7 {
+.col7-specs {
 	width: 529px;
 	padding-left: 0;
 	padding-right: 0;
@@ -59,11 +59,11 @@ img {
 }
 
 h2 {
-	font-size: 26px;
+	font-size: 25px;
 	font-weight: bold;
 	color: #F07C17;
 	margin-top: 0;
-	margin-bottom: 30px;
+	margin-bottom: 37px;
 }
 
 p {
@@ -74,11 +74,11 @@ p {
 
 .outline {
 	outline: 1px solid #CCCCCC;
-	padding: 35px 0 0 32px;
+	padding: 29px 0 0 32px;
 	height: 223px;
 }
 
 li {
 	font-size: 15px;
-	line-height: 30px;
+	line-height: 29px;
 }
